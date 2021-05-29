@@ -19,5 +19,10 @@ show tables;##显示指定数据库的所有表，使用该命令前需要使用
 show columns from 数据表;##显示数据表的属性，属性类型，主键信息 ，是否为 NULL，默认值等其他信息。
 ```
 
+* 当出现服务名无效。请键入 NET HELPMSG 2185时
+```shell
+mysqld --install
+```
+会提示Service successfully installed，代表注册服务成功
 
 
