@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+# 个人博客
+<a href="https://fhtwl.github.io/">个人博客</a>
+
+# 更新
+打开git base，执行
+```sh
+sh deploy.sh
+```
+=======
 ## 项目总览
 项目使用vuepress搭建
 
@@ -193,3 +203,4 @@ git commit -m 'deploy'
 
 更多其他配置可前往[官网](https://vuepress.vuejs.org/ "官网")查看api文档
 
+>>>>>>> 39b0ee405ba3cc83cc20a09f04624425dc1b92d5
